@@ -2,12 +2,13 @@
 
 **Open-Source Web App** coded in **[Flask Framework](https://palletsprojects.com/p/flask/)** - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
 
-### App Features:
+## App Features:
 
 - SQLite database
 - SQLAlchemy ORM
 - Session-Based authentication flow (login, register)
 - UI Kit: Phantom by **Html5UP**
+- [CCA 3.0 License](./LICENSE.md) - preserve the footer links (Html5UP, AppSeed)
 
 <br />
 
