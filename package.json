@@ -1,0 +1,26 @@
+{
+    "name": "flask-html5up-phantom",
+    "version": "0.0.1",
+    "description": "An open-source Flask boilerplate suitable for simple applications.",
+    "main": "gruntfile.js",
+    "devDependencies": {
+        "rimraf": "^2.5.2"
+    },
+    "engines": {
+        "node": ">=0.10.1"
+    },
+    "scripts": {
+        "start"  : "flask run",
+        "shell"  : "flask shell"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/app-generator/flask-html5up-phantom"
+    },
+    "bugs": {
+        "url": "https://github.com/app-generator/flask-html5up-phantom/issues",
+        "email": "support@appseed.us"
+    },
+    "author": "AppSeed.us <support@appseed.us> (https://appseed.us)",
+    "license": "CCA3.0"
+}
