@@ -13,6 +13,7 @@
 <br />
 
 ### App Links:
+---
 
 - [Flask Html5up Phantom](https://appseed.us/apps/flask-apps/flask-html5up-phantom) - product page
 - [Flask Html5up Phantom](https://www.youtube.com/watch?v=P12xL7ExQZQ) - yTube presentation (learn how touse it)
