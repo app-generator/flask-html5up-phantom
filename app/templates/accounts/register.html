@@ -15,7 +15,9 @@
         {% if msg %}
             <p>{{ msg | safe }}</p>
         {% else %}
-            <p>Enter your credentials</p>
+            <p>
+            Add your credentials or <a href={{ url_for('login') }} >authenticate</a> with an existing account.
+            </p>
         {% endif %}
 
         <form method="post" action="">

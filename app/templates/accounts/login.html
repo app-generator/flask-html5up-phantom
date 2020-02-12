@@ -15,7 +15,10 @@
         {% if msg %}
             <p>{{ msg | safe }}</p>
         {% else %}
-            <p>Enter your credentials</p>
+            <p>
+                Use default credentials: <strong>test / pass</strong>
+                OR <a href={{ url_for('register') }} >create your own user</a>            
+            </p>
         {% endif %}
         
         <form method="post" action="">
